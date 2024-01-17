@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/code/text_01.17/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\text_01.dir\\main.c.obj -c D:\\code\\text_01.17\\main.c",
+  "file": "D:/code/text_01.17/main.c",
+  "output": "CMakeFiles/text_01.dir/main.c.obj"
+},
+{
+  "directory": "D:/code/text_01.17/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\text_01.dir\\max.c.obj -c D:\\code\\text_01.17\\max.c",
+  "file": "D:/code/text_01.17/max.c",
+  "output": "CMakeFiles/text_01.dir/max.c.obj"
+}
+]

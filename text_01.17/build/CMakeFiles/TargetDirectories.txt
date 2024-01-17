@@ -1,0 +1,3 @@
+D:/code/text_01.17/build/CMakeFiles/text_01.dir
+D:/code/text_01.17/build/CMakeFiles/edit_cache.dir
+D:/code/text_01.17/build/CMakeFiles/rebuild_cache.dir
